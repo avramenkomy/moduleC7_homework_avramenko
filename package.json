@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/avramenkomy/moduleC7_homework_avramenko#readme",
   "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.6.1",
     "jest": "^26.6.1"
   }
 }
